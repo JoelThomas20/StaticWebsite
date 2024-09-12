@@ -7,6 +7,9 @@
 </p>
 
 <h3 align="left">Architecture Diagram</h3>
+
+<img src="img/Architecture Diagram.jpg">
+
 <p align="left">
   <!-- Add links to your social profiles here -->
   <!-- Example:
@@ -60,6 +63,7 @@
   <li><a href="#pushing-the-docker-image-to-docker-hub">Pushing the Docker Image to Docker Hub</a></li>
   <li><a href="#accessing-the-website">Accessing the Website</a></li>
   <li><a href="#troubleshooting">Troubleshooting</a></li>
+   <li><a href="#screenshots">Screenshots</a></li>
 </ul>
 
 <h3 align="left">Introduction</h3>
@@ -178,4 +182,6 @@ cd static-website-docker</code></pre>
   <li><strong>Port Conflicts:</strong> Ensure port 8080 on your host machine is not in use by another application.</li>
 </ul>
 
+<h3 align="left">Screenshots</h3>
 
+<img src="img/8080.png">
