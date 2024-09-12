@@ -6,7 +6,7 @@
   🔭 Containerizing a static website using Docker
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Architecture Diagram</h3>
 <p align="left">
   <!-- Add links to your social profiles here -->
   <!-- Example:
