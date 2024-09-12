@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <p align="center">
-  🔭 Containerizing a static website using Docker
+  🔭 Deploying a static website using Docker
 </p>
 
 <h3 align="left">Architecture Diagram</h3>
