@@ -8,7 +8,7 @@
 
 <h3 align="left">Architecture Diagram</h3>
 
-<img src="img/Architecture Diagram.jpg">
+<img src="img/Architecture.jpg">
 
 <p align="left">
   <!-- Add links to your social profiles here -->
